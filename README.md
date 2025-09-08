@@ -1,4 +1,5 @@
 # India's-stock-Market-Price-Prediction-with-web-deployment
+[DATASET FROM KAGGLE](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data)
 end-to-end stock price prediction project!
 a comprehensive system for forecasting stock market prices. This project goes from data analysis to a fully-deployed web application.
 
