@@ -1,0 +1,24 @@
+Requirements and dependencies:
+
+!pip install pandas numpy matplotlib scikit-learn tensorflow ta joblib
+
+version:
+module 'ta' has no attribute '__version__'
+
+Pandas version: 2.2.2
+Numpy version: 2.0.2
+Matplotlib version: 3.10.0
+Scikit-learn version: 1.6.1
+Tensorflow version: 2.19.0
+Joblib version: 1.5.2
+
+import zipfile
+import os
+import pandas as pd
+import numpy as np
+import joblib
+from sklearn.preprocessing import MinMaxScaler
+from tensorflow.keras.models import Sequential, load_model
+from tensorflow.keras.layers import LSTM, Dense, Dropout
+import matplotlib.pyplot as plt
+import ta
